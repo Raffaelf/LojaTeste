@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LojaVirtual</string>
+    <string name="edit_text_name">Username</string>
+    <string name="edit_text_password">Senha</string>
+    <string name="edit_text_email">E-mail</string>
+    <string name="text_view_Titulo_Login">Bem Vindo!</string>
+    <string name="text_btn_logar">Logar!</string>
+    <string name="text_btn_cadastrar">Cadastre-se!</string>
+    <string name="text_cadastro">Cadastro</string>
+    <string name="text_btn_tela_cadastro">Cadastrar</string>
+    <string name="text_loja">Loja</string>
+    <string name="text_carrinho">Carrinho</string>
+
+
+</resources>
